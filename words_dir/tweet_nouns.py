@@ -356,7 +356,7 @@ nouns = [
     'quinoa',
     'rainbow cake',
     'ramen',
-    'rasogulla',
+    'rasgulla',
     'ratatouille',
     'rice',
     'rice Ball 🍙',
